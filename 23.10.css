@@ -1,0 +1,60 @@
+.qora{
+  position: absolute;
+    top: -35px;
+    width: 0;
+    height: 0;
+    border-top: 135px solid transparent;
+    border-left: 455px solid #414143;
+    border-bottom: 95px solid transparent;
+    display: inline-block;
+}
+.qora2{
+    border-top: 100px solid;
+    color: #3a3a3c;
+    border-left: 455px solid transparent;
+    width: 50px;
+    display: inline-block;
+}
+.navbar{
+    width: 65%;
+    height: 70px;
+    background-color:  #FFFFFF;
+    margin-top: -115px;
+    left: 524px;
+}
+.yozuv1{
+    color: #FF0000;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 1.25;
+    letter-spacing: 0em;
+    box-sizing: border-box;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+.yozuv2{
+    color: #000000;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 1.25;
+    letter-spacing: 0em;
+    margin-bottom: 1.5rem;
+    margin-bottom: 0;
+    text-align: left;
+    padding-top: 0;
+    margin-left: 150px;
+}
+.shakl1{
+    font-size: 25px;
+    border-width:1px;
+    border-style: none;
+    background: #02bdfc;
+    color: #ffffff;
+    border-color: #333333;
+    width: 3em;
+    height: 3em;
+    line-height: 3em;
+}
